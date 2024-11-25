@@ -15,14 +15,41 @@ Key columns include:
 
 `Human Development Groups`: Classification of countries into 'Low', 'Medium', 'High', or 'Very High' HDI.
 
-### Analysis
+
+### Exploratory Data Analysis
 1. Data Cleaning:
    - Removed missing values using Pandas. 11 countries were removed due to NaN MMR values for all years.
    -  split 'Year' and 'MMR' into separate columns, and created an 'HDI Average' column.
+   -  Change the datatype of Human Development Groups to category in order of lowest rank to highest rank
 3. Data Analysis: Explored correlations and performed an ANOVA test.
 4. Visualizations: Created line charts, bar charts, and boxplots to highlight key trends.
+5. Tools Used: Jupyter Notebook. Libraries such as; Pandas, Numpy, Matplotlib, Seaborn, Scipy.stats
+6. Questions asked:
+   - What Human Development Group has the highest Maternal Mortality Ratio?
+   - What is the average Maternal Mortality Rate per HDI
+   - 
 
 ### Visualizations 
+![line graph ](https://github.com/user-attachments/assets/18428bbd-462c-47fe-b97b-e1b68812001c)
+
+**Figure 1:** *Line graph showing the maternal mortality rates from 1990 to 2021 for each Human Development group.*
+
+![Bar Chart](https://github.com/user-attachments/assets/ddeec64a-8934-4862-90f7-3f06bc0340b6)
+
+**Figure 2:** *bar graph gives us a snapshot of the Maternal Mortality Rates per Human Development group in the year 2021.*
+
+![Box Plot](https://github.com/user-attachments/assets/54aa824b-07b6-4d5f-b3e1-22eaa5414dd4)
+
+**FIgure 3:** *Boxplot that shows the distribution of maternal mortality rates (MMR) for each HDI category in the year 2021.*
+
+### Results
+
+
+
+
+
+
+
 
 
 ```python
