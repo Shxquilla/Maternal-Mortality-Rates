@@ -29,7 +29,7 @@ Key columns include:
 5. Tools Used: Jupyter Notebook. Libraries such as; Pandas, Numpy, Matplotlib, Seaborn, Scipy.stats
 6. Questions asked:
    - What Human Development Group has the highest Maternal Mortality Ratio?
-   - What is the average Maternal Mortality Rate per HDI
+   - What is the average Maternal Mortality Rate per HDI?
      
 ---
 ### Visualizations 
