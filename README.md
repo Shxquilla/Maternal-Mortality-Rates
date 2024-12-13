@@ -6,7 +6,7 @@ This project investigates the relationship between the Human Development Index (
 ---
 
 ### Dataset Information
-Data source is from Kaggle https://www.kaggle.com/datasets/iamsouravbanerjee/maternal-mortality-dataset/data
+Data sourced from Kaggle https://www.kaggle.com/datasets/iamsouravbanerjee/maternal-mortality-dataset/data
 
 The dataset includes maternal mortality rates from 1990 to 2021 across various countries. 
 Key columns include:
